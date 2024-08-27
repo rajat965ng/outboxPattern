@@ -23,9 +23,9 @@ CREATE PUBLICATION my_publication FOR TABLE employee, department;
 ```
 
 ## Start your PGStream listen app
-```
+
 ![img_2.png](img_2.png)
-```
+
 
 ## Test Insert Streaming
 ```
